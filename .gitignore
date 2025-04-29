@@ -4,7 +4,8 @@ __pycache__/
 *.pyc
 .env
 *.chroma_db
-.ollama_env
+.ollama_env/
+ollama_env/
 .vscode/
 .idea/
 chroma_db/
