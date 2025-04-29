@@ -5,3 +5,7 @@ __pycache__/
 .env
 *.chroma_db
 .ollama_env
+.vscode/
+.idea/
+chroma_db/
+db/
