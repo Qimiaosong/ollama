@@ -9,4 +9,4 @@ ollama_env/
 .vscode/
 .idea/
 chroma_db/
-db/
+db/ollama_env/
