@@ -1,12 +1,7 @@
-venv/
-.venv/
 __pycache__/
 *.pyc
-.env
-*.chroma_db
 .ollama_env/
-ollama_env/
 .vscode/
 .idea/
-chroma_db/
+.chroma_db/
 db/ollama_env/
