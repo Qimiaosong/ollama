@@ -1,7 +1,14 @@
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
 .ollama_env/
+env/
+# IDE
 .vscode/
 .idea/
+# 数据库/缓存
 .chroma_db/
-db/ollama_env/
+db/
+.env
